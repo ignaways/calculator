@@ -1,0 +1,11 @@
+.ant-input:hover {
+    border-color: #fff;
+    border-inline-end-width: 0px;
+}
+
+:where(.css-dev-only-do-not-override-htwhyh).ant-input:focus, :where(.css-dev-only-do-not-override-htwhyh).ant-input-focused {
+    border-color: #fff;
+    box-shadow: none;
+    border-inline-end-width: 0px;
+    outline: 0;
+}
